@@ -12,5 +12,5 @@ async function connectToDB() {
     }
 }
 
-//export {connectToDB}; // Call the function
+
 export default connectToDB; // Call the function
